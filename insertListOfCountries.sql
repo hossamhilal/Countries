@@ -114,7 +114,6 @@ INSERT INTO "countries" VALUES ('ID', 'Indonesia','أندونيسيا','Indonesi
 INSERT INTO "countries" VALUES ('IR', 'Iran','إيران','Iranian','إيراني');
 INSERT INTO "countries" VALUES ('IQ', 'Iraq','العراق','Iraqi','عراقي');
 INSERT INTO "countries" VALUES ('IE', 'Ireland','إيرلندا','Irish','إيرلندي');
-INSERT INTO "countries" VALUES ('IL', 'Israel','إسرائيل','Israeli','إسرائيلي');
 INSERT INTO "countries" VALUES ('IT', 'Italy','إيطاليا','Italian','إيطالي');
 INSERT INTO "countries" VALUES ('CI', 'Ivory Coast','ساحل العاج','Ivory Coastian','ساحل العاج');
 INSERT INTO "countries" VALUES ('JE', 'Jersey','جيرزي','Jersian','جيرزي');
